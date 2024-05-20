@@ -59,7 +59,7 @@ df.duration.describe(percentiles=[list])
 ```
 
 Most of the trips are between 1 minutes and 60 minutes so we removed outliers by only filtering only those trips. <br>
-### Model Training
+#### Model Training
 Regression models such as linear regression, lasso, ridge are trained and validated with `rmse` scores. <br>
 ## Related Links
 - [Module 1 Study Notebook](module1_study.ipynb) | [View on nbviewer](https://nbviewer.org/github/Hokfu/MLOps_Zoomcamp_Study/blob/main/01-intro/module1_study.ipynb)
