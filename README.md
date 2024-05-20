@@ -7,6 +7,11 @@ MLOps, short for Machine Learning Operations, is a set of practices and tools de
 - Versioning
 - Scability
 
+<br>
+
+Here is binder link to check Jupyter Notebook. <br><br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hokfu/MLOps_Zoomcamp_Study/main)
+
 ### [Module 1: Introduction](01-intro)
 - Machine Learning
 - MLOps Overview
