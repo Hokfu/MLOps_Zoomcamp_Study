@@ -1,7 +1,7 @@
 ## Environment Preparation
 For developing and automating machine learning models with MLOps practices, Linux environment is important. We have a variety of options.
 - AWS EC2
-- Cloud Engine ( Google )
+- Compute Engine ( Google )
 - Github CodeSpace
 
 ### Using Github CodeSpace
