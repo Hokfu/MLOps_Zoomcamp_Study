@@ -17,3 +17,9 @@ Here is binder link to check Jupyter Notebook. <br><br>
 - Machine Learning
 - MLOps Overview
 - MLOps Maturity Model
+
+### [Module 2: Experiment Tracking](02-experiment-tracking)
+- Mlflow
+- Setting up Mlflow Server
+- Logging Parameters, Metrics, and Artifacts
+- Model Registry
