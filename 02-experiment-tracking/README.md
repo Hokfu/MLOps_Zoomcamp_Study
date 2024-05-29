@@ -68,3 +68,6 @@ mlflow.register_model(model_uri=model_uri, name=model_name)
 ```
 We can register best model with `mlflow.register_model(model_uri=model_uri, name=model_name)`. 
 
+## Related Links
+[Module 2 study notebook](module2_study_mlflow_setup.ipynb)|[View on nbviewer](https://nbviewer.org/github/Hokfu/MLOps_Zoomcamp_Study/blob/main/02-experiment-tracking/module2_study_mlflow_setup.ipynb)<br>
+[Module 2 homework](module2_homework)
