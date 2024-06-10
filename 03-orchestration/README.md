@@ -1,4 +1,4 @@
-## Orchestration
+## MLOps Orchestration
 
 This week is about orchestration of machine learning projects with [Mage AI](https://www.mage.ai/) with integration of [MLFLow](https://mlflow.org/)<br><br>
 Mage is an open-source, hybrid framework for transforming and integrating data.<br>
@@ -44,6 +44,5 @@ In my homework, I built pipeline with four blocks
 - Data Preparation (transformer)
 - Train Model (transformer)
 - Log the model with MLFlow (data exporter)
-
-<br><br>
+<br>
 The trained model is registerd and kept in artifact and the feature matrix is also recorded in artifact with MLFlow. 
