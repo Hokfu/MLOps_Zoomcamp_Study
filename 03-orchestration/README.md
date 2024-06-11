@@ -3,6 +3,8 @@
 This week is about orchestration of machine learning projects with [Mage AI](https://www.mage.ai/) with integration of [MLFLow](https://mlflow.org/)<br><br>
 Mage is an open-source, hybrid framework for transforming and integrating data.<br>
 
+#### Link to practice repo - [MLOps Orchestration with Mage](https://github.com/Hokfu/MLOps_Orchestration_with_Mage)
+
 ## Mage AI 
 
 #### Mage AI setup
