@@ -23,3 +23,9 @@ Here is binder link to check Jupyter Notebook. <br><br>
 - Setting up Mlflow Server
 - Logging Parameters, Metrics, and Artifacts
 - Model Registry
+
+### [Module 3: Orchestration](03-orchestration)
+- MageAI
+- Setting up MageAI
+- Building pipelines
+- Integrating MLFlow for experiment tracking
