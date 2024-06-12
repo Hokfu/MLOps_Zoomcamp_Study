@@ -16,10 +16,10 @@ mlflow ui --backend-store-uri sqlite:///mlflow.db
 #### MLflow experiment setup
 
 In Jupyter notebook, we can start mlflow like this. 
-`
+```
 mlflow.set_tracking_uri("sqlite:///mlflow.db")
 mlflow.set_experiment("nyc-taxi-experiment")
-`
+```
 
 #### MLflow setting tags, logging params, metrics and artifact
 When we train the model, we can start with `mlflow.start_run()`.
@@ -67,6 +67,14 @@ model_name = "A Cool Name"
 mlflow.register_model(model_uri=model_uri, name=model_name)
 ```
 We can register best model with `mlflow.register_model(model_uri=model_uri, name=model_name)`. 
+We can also log model with 
+
+```
+mlflow.sklearn.log_model(
+        sk_model=model,
+        artifact_path=artifact_path,
+        registered_model_name="sk-learn-linear-regression-model")
+```
 
 ## Related Links
 [Module 2 study notebook](module2_study_mlflow_setup.ipynb) | [View on nbviewer](https://nbviewer.org/github/Hokfu/MLOps_Zoomcamp_Study/blob/main/02-experiment-tracking/module2_study_mlflow_setup.ipynb)<br>
