@@ -46,5 +46,7 @@ In my homework, I built pipeline with four blocks
 - Data Preparation (transformer)
 - Train Model (transformer)
 - Log the model with MLFlow (data exporter)
-<br>
+<br><br>
+<img src="homework3_pipeline_structure.png" alt="homework 3 pipeline structure">
+<br><br>
 The trained model is registerd and kept in artifact and the feature matrix is also recorded in artifact with MLFlow. 
