@@ -16,7 +16,7 @@ conda install jupyter
 Check conda path in the environment, we can use this command in the terminal.
 
 ```
-where conda
+which conda
 
 ```
 
@@ -27,7 +27,7 @@ export PATH="<YourAnacondaPath>/bin:$PATH"
 
 ```
 
-Save it and run the followig to make sure of changes.
+Save it and run the followig in the project repo to make sure of changes.
 
 ```
 source ~/.bashrc
