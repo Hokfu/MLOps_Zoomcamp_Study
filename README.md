@@ -12,20 +12,31 @@ MLOps, short for Machine Learning Operations, is a set of practices and tools de
 Here is binder link to check Jupyter Notebook. <br><br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hokfu/MLOps_Zoomcamp_Study/main)
 
-### [Module 1: Introduction](01-intro)
+### Module 1: Introduction
 - Environment Preparation
 - Machine Learning
 - MLOps Overview
 - MLOps Maturity Model
+- [Link](01-intro)
 
-### [Module 2: Experiment Tracking](02-experiment-tracking)
+### Module 2: Experiment Tracking
 - Mlflow
 - Setting up Mlflow Server
 - Logging Parameters, Metrics, and Artifacts
 - Model Registry
+- [Link](02-experiment-tracking)
 
-### [Module 3: Orchestration](03-orchestration)
+### Module 3: Orchestration
 - MageAI
 - Setting up MageAI
 - Building pipelines
 - Integrating MLFlow for experiment tracking
+- [Link](03-orchestration)
+
+### Module 4: Deployment
+- Three ways of deployment
+  - Web service
+  - Streaming
+  - Batch
+- Docker
+- [Link](04-deployment)
