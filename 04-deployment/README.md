@@ -1,6 +1,20 @@
 ## Deployment
 
-Deployment is done with Docker.<br><br>
+Deployment is done with Docker.
+
+There are three ways to deploy a machine learning model.
+
+- web service
+- streaming
+- batch
+
+### Web service
+
+An API for machine learning model is deployed.
+
+### Batch
+
+In this work, I predict the scores in batches. 
 
 ### Docker Setup
 
