@@ -1,4 +1,10 @@
 # Byte-compiled / optimized / DLL files
+
+
+# Ignore LocalStack data
+06-best-practices/localstack/*
+
+
 __pycache__/
 *.py[cod]
 *$py.class
